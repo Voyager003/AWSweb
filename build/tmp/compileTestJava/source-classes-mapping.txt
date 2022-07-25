@@ -1,2 +1,4 @@
+com/rome/book/SpringBootWeb/web/dto/HelloResponseDtoTest.java
+ com.rome.book.SpringBootWeb.web.dto.HelloResponseDtoTest
 com/rome/book/SpringBootWeb/web/HelloControllerTest.java
  com.rome.book.SpringBootWeb.web.HelloControllerTest
