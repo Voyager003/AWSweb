@@ -1,6 +1,8 @@
 com/rome/book/SpringBootWeb/web/dto/HelloResponseDtoTest.java
  com.rome.book.SpringBootWeb.web.dto.HelloResponseDtoTest
-com/rome/book/SpringBootWeb/domain/posts/PostsRepositoryTest.java
- com.rome.book.SpringBootWeb.domain.posts.PostsRepositoryTest
 com/rome/book/SpringBootWeb/web/HelloControllerTest.java
  com.rome.book.SpringBootWeb.web.HelloControllerTest
+com/rome/book/SpringBootWeb/domain/posts/PostsRepositoryTest.java
+ com.rome.book.SpringBootWeb.domain.posts.PostsRepositoryTest
+com/rome/book/SpringBootWeb/web/PostsApiControllerTest.java
+ com.rome.book.SpringBootWeb.web.PostsApiControllerTest
