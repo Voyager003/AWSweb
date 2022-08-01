@@ -10,7 +10,7 @@ import javax.persistence.*;
 @Getter // 6) Class 내 모든 필드의 Getter 메서드 자동 생성
 @NoArgsConstructor // 5) 기본 생성자 자동추가
 @Entity // 1) Table과 Linked Class임을 나타냄
-public class Posts {
+public class Posts extends BaseTimeEntity{
 
     @Id // 2) 해당 Table의 PK 필드
     @GeneratedValue(strategy = GenerationType.IDENTITY) // 3) PK생성 규칙
