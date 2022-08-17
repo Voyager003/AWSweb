@@ -28,6 +28,7 @@ public class PostService {
         posts.update(postsUpdateRequestDto.getTitle(), postsUpdateRequestDto.getContent());
 
         return id;
+        
     }
 
     public PostsResponseDto findById (Long id) {
