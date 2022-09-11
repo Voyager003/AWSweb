@@ -5,8 +5,8 @@ com/rome/book/SpringBootWeb/Web/dto/PostsSaveRequestDto.java
  com.rome.book.SpringBootWeb.Web.dto.PostsSaveRequestDto$PostsSaveRequestDtoBuilder
 com/rome/book/SpringBootWeb/domain/posts/PostService.java
  com.rome.book.SpringBootWeb.domain.posts.PostService
-com/rome/book/SpringBootWeb/domain/posts/BaseTimeEntity.java
- com.rome.book.SpringBootWeb.domain.posts.BaseTimeEntity
+com/rome/book/SpringBootWeb/Web/dto/IndexController.java
+ com.rome.book.SpringBootWeb.Web.dto.IndexController
 com/rome/book/SpringBootWeb/domain/posts/Posts.java
  com.rome.book.SpringBootWeb.domain.posts.Posts
  com.rome.book.SpringBootWeb.domain.posts.Posts$PostsBuilder
@@ -23,5 +23,5 @@ com/rome/book/SpringBootWeb/Application.java
 com/rome/book/SpringBootWeb/Web/dto/PostsUpdateRequestDto.java
  com.rome.book.SpringBootWeb.Web.dto.PostsUpdateRequestDto
  com.rome.book.SpringBootWeb.Web.dto.PostsUpdateRequestDto$PostsUpdateRequestDtoBuilder
-com/rome/book/SpringBootWeb/Web/dto/IndexController.java
- com.rome.book.SpringBootWeb.Web.dto.IndexController
+com/rome/book/SpringBootWeb/domain/posts/BaseTimeEntity.java
+ com.rome.book.SpringBootWeb.domain.posts.BaseTimeEntity
