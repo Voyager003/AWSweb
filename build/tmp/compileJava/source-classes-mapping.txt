@@ -25,3 +25,5 @@ com/rome/book/SpringBootWeb/Web/dto/PostsUpdateRequestDto.java
  com.rome.book.SpringBootWeb.Web.dto.PostsUpdateRequestDto$PostsUpdateRequestDtoBuilder
 com/rome/book/SpringBootWeb/domain/posts/BaseTimeEntity.java
  com.rome.book.SpringBootWeb.domain.posts.BaseTimeEntity
+com/rome/book/SpringBootWeb/UserDao.java
+ com.rome.book.SpringBootWeb.UserDao
